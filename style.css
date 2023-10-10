@@ -172,3 +172,38 @@ body{
     align-items: center;
     margin-left: 8rem;
 }
+
+.formacao{
+    color: #FFB800;
+    font-size: 25px;
+    margin-top: 7rem;
+    margin-left: 3rem;
+}
+.p-formacao{
+    color: aliceblue;
+    font-size: 18px;
+    width: 55%;
+    margin-top: 2rem;
+    margin-left: 5rem;
+    margin-top: 5.5rem;
+}
+.mack{
+    grid-column: 1;
+    grid-row: 1;
+    margin-left: 3rem;
+}
+.insper{
+    margin-left: 6rem;
+    margin-top: 2.4rem;
+}
+.brasil{
+    margin-top: 3.5rem;
+    margin-left: 4.8rem;
+}
+.uk{
+    margin-top: 5.5rem;
+    margin-left: 9.4rem;
+}
+.fourth{
+    margin-left: 4rem;
+}
